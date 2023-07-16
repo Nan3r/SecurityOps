@@ -1,0 +1,26 @@
+site_name: 安全运营之路
+
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  icon:
+    repo: fontawesome/brands/github
+  logo: 'assets/logo_white.png'
+  favicon: 'assets/favicon.ico'
+
+
+extra:
+  search:
+    language: 'jp'
+
+repo_url: https://github.com/satan1a/TheRoadOfSO
+repo_name: Toky/TheRoadofSO
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
