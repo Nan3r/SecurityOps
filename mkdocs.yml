@@ -16,8 +16,8 @@ extra:
   search:
     language: 'jp'
 
-repo_url: https://github.com/satan1a/TheRoadOfSO
-repo_name: Toky/TheRoadofSO
+repo_url: https://github.com/Nan3r/SecurityOps
+repo_name: Nan3r/SecurityOps
 
 markdown_extensions:
   - pymdownx.highlight
